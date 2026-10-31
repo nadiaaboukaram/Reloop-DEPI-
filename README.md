@@ -1,9 +1,11 @@
 # Reloop 
-### _ReLoop is a digital donation platform that connects people with unused items to trusted charities and individuals in need. It aims to make donating easier, more convenient, and more transparent by simplifying the donation process and helping users give their belongings a meaningful second life.
-
+### _ One Person’s Clutter. Another Person’s Treasure.
+Give It a Loop. Give It New Life.
 Your Clutter. Their Treasure._
 
----
+
+## Figma ( Project link )
+--- [Reloop]([URL](https://www.figma.com/design/gW6ugHYL32VFa1u4UAAADK/ReLoop?node-id=5-453&t=bg5Fa4Gj9VlOg8Pb-0))
 
 ##  Team Members
 - **[Nadia Adel (Team leader)]**  
@@ -20,7 +22,7 @@ Your Clutter. Their Treasure._
 ---
 
 ##  Project Overview
-[Write a clear paragraph explaining what the project is about, what problem it solves, and how it will be presented.]
+[ReLoop is a digital donation platform that connects people with unused items to trusted charities and individuals in need. It aims to make donating easier, more convenient, and more transparent by simplifying the donation process and helping users give their belongings a meaningful second life..]
 
 ---
 
