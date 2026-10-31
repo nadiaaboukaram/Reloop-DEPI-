@@ -1,5 +1,5 @@
 # Reloop 
-### _ReLoop is an online marketplace that lets users buy, sell, exchange, and donate pre-loved items, giving unused belongings a second life while reducing waste.
+### _ReLoop is a digital donation platform that connects people with unused items to trusted charities and individuals in need. It aims to make donating easier, more convenient, and more transparent by simplifying the donation process and helping users give their belongings a meaningful second life.
 
 Your Clutter. Their Treasure._
 
