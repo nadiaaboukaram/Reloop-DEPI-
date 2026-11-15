@@ -27,10 +27,10 @@ Your Clutter. Their Treasure._
 ---
 
 ## Project Objectives
-- [Objective 1]  
-- [Objective 2]  
-- [Objective 3]  
-- [Objective 4]  
+- [Objective 1: Simplify the donation process and make it easy for users to donate unused items.]  
+- [Objective 2: Connect donors with individuals and charities who genuinely need their items.]  
+- [Objective 3: Build a safe and trustworthy donation experience through verification and transparency]  
+- [Objective 4: Promote sustainability by reducing waste and encouraging item reuse.]  
 
 ---
 
@@ -47,7 +47,7 @@ Your Clutter. Their Treasure._
 
 ## Project Plan (5 Weeks)
 
-###  Week 1 — [Title]
+###  Week 1 — [Research & Discovery]
 - [Task]  
 
 
