@@ -5,8 +5,8 @@ Your Clutter. Their Treasure._
 
 
 ## Figma ( Project link )
---- [Reloop](https://www.figma.com/design/gW6ugHYL32VFa1u4UAAADK/ReLoop?node-id=0-1&p=f&t=wg61eg1V4FkTIAUt-0)
-
+--- [Reloop(UI)](https://www.figma.com/design/gW6ugHYL32VFa1u4UAAADK/ReLoop?node-id=0-1&p=f&t=wg61eg1V4FkTIAUt-0)
+--- [Figjam (UX)](https://www.figma.com/board/QbYPoPjnYBM1TYNkdZ13yZ/Project?node-id=0-1&p=f&t=ft3fseNqg0gXiY0u-0)
 ##  Team Members
 - **[Nadia Adel (Team leader)]**  
 - **[Salema Khaled]**  
@@ -35,33 +35,48 @@ Your Clutter. Their Treasure._
 ---
 
 ##  Project Scope
-- [Scope item 1]  
-- [Scope item 2]  
-- [Scope item 3]  
-- [Scope item 4]  
-- [Scope item 5]  
+- [User Research: Understand donors' needs, motivations, challenges, and pain points when donating unused items.]  
+- [Competitor Analysis: Analyze existing donation platforms and identify opportunities for unique features.]  
+- [Information Architecture: Create the sitemap, user flows, and organize the app's content and features.]  
+- [UI/UX Design: Design user-friendly wireframes, high-fidelity screens, and reusable UI components.]  
+- [Prototyping & Testing: Build an interactive prototype and conduct usability testing to improve the user experience.]  
 
->  **Final Deliverable:** [Describe the final output of the project]
+>  **Final Deliverable:** [A complete UI/UX case study for ReLoop, including research insights, user personas, user flows, wireframes, high-fidelity UI designs, and an interactive Figma prototype for a user-friendly donation platform.]
 
 ---
 
 ## Project Plan (5 Weeks)
 
 ###  Week 1 — [Research & Discovery]
-- [Task]  
+- [Define the problem statement and project goals.
+Conduct user research and interviews.
+Identify user needs, pain points, and behaviors.
+Analyze competitors and market opportunities.]  
 
 
-### Week 2 — [Title]
-- [Task]  
+### Week 2 — [Define & Ideation]
+- [Create user personas and empathy maps.
+Define user journeys and key user scenarios.
+Brainstorm solutions and unique features.
+Prioritize features using an Effort vs. Impact Matrix.]  
 
 
-### Week 3 — [Title]
-- [Task]  
+### Week 3 — [Information Architecture & Wireframing]
+- [Create the information architecture (Sitemap).
+Design user flows for key features.
+Develop low-fidelity wireframes.
+Review and refine the user experience.]  
 
 
-### Week 4 — [Title]
-- [Task]  
+### Week 4 — [UI Design & Prototyping]
+- [Define the visual identity, colors, and typography.
+Create a UI design system and reusable components.
+Design high-fidelity screens.
+Build an interactive prototype.]  
 
 
-### Week 5 — [Title]
-- [Task]  
+### Week 5 — [Testing & Finalization]
+- [Conduct usability testing.
+Collect user feedback and identify usability issues.
+Refine and improve the designs.
+Finalize the prototype and prepare the case study.]  
